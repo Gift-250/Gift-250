@@ -47,10 +47,4 @@ Welcome to my GitHub profile. I am passionate about building technology solution
 
 ---
 
-## 📌 Professional Philosophy
 
-> “Commitment to continuous learning and building impactful solutions.”
-
----
-
-Thank you for visiting my profile.
