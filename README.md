@@ -1,16 +1,56 @@
-## Hi there 👋
+# Gift Of God
 
-<!--
-**Gift-250/Gift-250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Tech Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I am passionate about building technology solutions, learning modern development practices, and contributing to meaningful projects. I enjoy solving problems, exploring new technologies, and continuously improving my skills as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- Passionate about software development and innovation
+- Continuously learning modern technologies and frameworks
+- Focused on building clean, scalable, and efficient solutions
+- Open to collaboration on projects and open-source contributions
+- Dedicated to growth, consistency, and professional excellence
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- HTML5
+- CSS
+- JavaScript/ES6
+- Tailwind
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Responsive Web Design
+
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: your.email@example.com
+
+---
+
+## 📌 Professional Philosophy
+
+> “Commitment to continuous learning and building impactful solutions.”
+
+---
+
+Thank you for visiting my profile.
