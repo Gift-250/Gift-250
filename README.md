@@ -34,16 +34,16 @@ Welcome to my GitHub profile. I am passionate about building technology solution
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gift-250&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-250&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your.email@example.com
+- GitHub: https://github.com/Gift-250
+- Email: ingiriraneza@gmail.com
 
 ---
 
